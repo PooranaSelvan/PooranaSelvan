@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on e-commerce website<br>🤝 I’m looking for help with express & backend<br>🌱 I’m currently learning redux and jwt<br>💬 Ask me about mern stack 
+🔭 I’m currently working on Mern Stack Project<br>🤝 I’m looking for help with Express JS& Redux<br>🌱 I’m currently learning redux and NextJS<br>💬 Ask me about Mern stack 
 
 
 ## 🌐 Socials:
